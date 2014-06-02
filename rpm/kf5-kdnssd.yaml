@@ -25,6 +25,7 @@ PkgBR:
     - kf5-rpm-macros
     - extra-cmake-modules
     - qt5-tools
+    - avahi-devel
 PkgConfigBR:
     - Qt5Core
     - Qt5DBus
@@ -34,7 +35,6 @@ PkgConfigBR:
     - Qt5Widgets
     - Qt5Concurrent
     - Qt5Test
-    - avahi-devel
 Requires:
     - nss-mdns
     - kf5-filesystem
