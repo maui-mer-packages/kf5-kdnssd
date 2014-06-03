@@ -15,7 +15,6 @@ URL:        http://www.kde.org
 Source0:    %{name}-%{version}.tar.xz
 Source100:  kf5-kdnssd.yaml
 Source101:  kf5-kdnssd-rpmlintrc
-Requires:   nss-mdns
 Requires:   kf5-filesystem
 Requires(post): /sbin/ldconfig
 Requires(postun): /sbin/ldconfig

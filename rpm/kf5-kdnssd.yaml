@@ -36,7 +36,6 @@ PkgConfigBR:
     - Qt5Concurrent
     - Qt5Test
 Requires:
-    - nss-mdns
     - kf5-filesystem
 
 RequiresPost:
